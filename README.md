@@ -1,4 +1,3 @@
-# socialcloud
 # Project for COMP 3115.
 
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/46738881/52077816-82e5ee00-2557-11e9-9b7f-2031f82748c9.PNG">
