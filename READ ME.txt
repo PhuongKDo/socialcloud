@@ -1,0 +1,31 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x						Simple how to guide:					 x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Setting up Server:
+	
+	- Get XAMPP
+	- Under Actions -> Start 'Apache' and 'MySQL'
+	
+Setting up SQL:
+
+	- Create new database
+	- Name it 'socialcloud'
+	- Import 'socialcloud.sql' onto new database
+
+Setting up XAMP folder path:
+	
+	- folder path -> C:\xampp\htdocs\socialcloud
+
+Setting up website:
+	
+	- localhost path -> http://localhost/socialcloud/index.php
+	- index.php contains the main page
+	
+God Mode:
+	
+	- All users have password -> " pass "
+	- For example: 
+		Username: Cat
+		Password: Pass
+	- Cat has all users as friend
